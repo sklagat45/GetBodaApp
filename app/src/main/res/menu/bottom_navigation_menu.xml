@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/m_home"
+        android:icon="@drawable/ic_delivery_express_parcel_postman_icon"
+        android:title="@string/orders" />
+
+
+    <item
+        android:id="@+id/m_steps"
+        android:icon="@drawable/ic_baseline_location_on_24"
+        android:title="@string/steps" />
+
+    <item
+        android:id="@+id/m_setting"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="@string/setting" />
+
+</menu>

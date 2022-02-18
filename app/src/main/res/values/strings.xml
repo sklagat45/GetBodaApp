@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Get Boda</string>
+    <string name="title_activity_dispatchers">DispatchersActivity</string>
+    <string name="steps">Steps</string>
+    <string name="setting">Settings</string>
+    <string name="tab_text_1">To do</string>
+    <string name="tab_text_2">Completed</string>
+    <string name="title_activity_dispatcher">DispatcherActivity</string>
+    <string name="orders">Orders</string>
+    <string name="transit_image">transit image</string>
+    <string name="delivery">Delivery</string>
+    <string name="delivery_time">5:53 PM</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
